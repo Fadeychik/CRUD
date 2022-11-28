@@ -1,0 +1,11 @@
+td, th {
+    padding: 10px;
+}
+
+th {
+    background: #606060;
+}
+
+td {
+    background: #ece8e8;
+}
